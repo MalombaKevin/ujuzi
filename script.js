@@ -29,7 +29,7 @@ const questions =  [
         { text:'Tonga', correct: false },
         { text:'Burundi', correct: false },
         { text:'Vatican City', correct: true },
-        { text:'Spain', correct: true },
+        { text:'Spain', correct: false },
     ]
 },
 
